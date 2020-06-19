@@ -2,13 +2,12 @@
 
 ## Exercise I
 
-a)
+a) The first level would be O(n), the number of operations would increase proportionally with regards to the input size
+
+b) The next level would be O(nlogn) because rthe output grows atg a slightly faster rate than O(n) but not as fast as O(n^2)
 
 
-b)
-
-
-c)
+c)The last level would be O(n), the number of operations would increase proportionally with regards to the input size
 
 ## Exercise II
 
