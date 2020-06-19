@@ -11,4 +11,4 @@ c)The last level would be O(n), the number of operations would increase proporti
 
 ## Exercise II
 
-
+You would have to check if the egg breaks when thrown, if it does, then the floor would be greater than or equal to f. If it doesn't break then the floor is less than f. The total runtime of this operation would be log2n. 
